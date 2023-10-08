@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578463119202",
+    "project_id": "reactnativefcm-f238a",
+    "storage_bucket": "reactnativefcm-f238a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578463119202:android:35d51bf51a94bb9be19e3b",
+        "android_client_info": {
+          "package_name": "com.reactnativefcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYSS9enHpxD59sjdNf3OAs2Yc11D5jMKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

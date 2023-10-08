@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=p-B2co9cIF0
+https://testfcm.com/
+
+cd android && ./gradlew clean
